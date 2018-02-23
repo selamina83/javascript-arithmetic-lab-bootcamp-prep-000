@@ -27,7 +27,7 @@ function inc(n){
   return n++;
 }
 
-inc(419);
+inc(126);
 
 function dec(n){
   return n-=1;
