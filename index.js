@@ -27,7 +27,7 @@ function inc(n){
   return n+=1;
 }
 
-inc(126);
+inc(774);
 
 function dec(n){
   return n-=1;
