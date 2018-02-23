@@ -24,7 +24,7 @@ function divide (a,b){
 divide(100, 5);
 
 function inc(n){
-  return n+=1;
+  return n++;
 }
 
 inc(774);
