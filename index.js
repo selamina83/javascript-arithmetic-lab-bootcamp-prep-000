@@ -30,7 +30,7 @@ function inc(n){
 inc(419);
 
 function dec(n){
-  return n__;
+  return n-=1
 }
 dec(30);
 
